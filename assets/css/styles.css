@@ -1,0 +1,131 @@
+.navbar.navbar-dark.navbar-expand-md.fixed-top.bg-dark {
+  background-color: #000!important;
+  opacity: 0.8;
+}
+
+.navbar-dark .navbar-nav .nav-link {
+  color: #fff;
+  font-size: 13px;
+}
+
+.navbar-dark .navbar-nav .nav-link .apple-logo {
+  font-size: 20px;
+  line-height: 0;
+}
+
+body {
+  padding-top: 50px;
+}
+
+.product {
+  padding-top: 100px;
+  text-align: center;
+  margin-bottom: 5px;
+}
+
+.product h1 {
+  font-size: 56px;
+  font-weight: bold;
+}
+
+.product h2 {
+  font-size: 27px;
+  font-weight: bold;
+}
+
+.product-small.links a {
+  font-size: 15px;
+  margin-bottom: 80px;
+}
+
+.links a {
+  font-size: 21px;
+  margin-bottom: 80px;
+}
+
+.product .links .learn-more {
+  margin-right: 20px;
+}
+
+.links {
+  margin-bottom: 50px;
+}
+
+.product.iphone-x {
+  background-color: #f9f9f9;
+}
+
+.product.macbook-pro {
+  background-color: #131218;
+}
+
+.product .macbook-pro {
+  background-color: #f9f9f9;
+}
+
+.product.ipad {
+  background-color: #f4f3f4;
+}
+
+.product.dark {
+  color: #fff;
+}
+
+.product.dark a {
+  color: #fff;
+  text-decoration: none;
+}
+
+.product-small {
+  height: 550px;
+  padding-top: 40px;
+  margin: 0 0 10px 10px;
+  text-align: center;
+}
+
+.product-small h3 {
+  font-size: 32px;
+  font-weight: bold;
+}
+
+.product-small h4 {
+  font-size: 20px;
+  font-weight: bold;
+}
+
+.learn-more {
+}
+
+.small-links a {
+  padding-top: 20px;
+  font-size: 17px;
+}
+
+.product-small {
+}
+
+.product-small.dark {
+  color: #fff;
+}
+
+.darkinfo {
+  color: #fff;
+  text-decoration: none;
+}
+
+.small-links.dark {
+  padding-top: 350px;
+}
+
+.product-small.iphone {
+  background-color: #f9f0eb;
+}
+
+.product-small.iphone-shoot {
+  background-color: #fff;
+}
+
+.iphone8 {
+  height: 69%;
+}
+
